@@ -1,4 +1,4 @@
-# my-cybersecurity-blogs
+# Cybersecurity Journnal
 Personal blogs on cybersecurity topics
 
 
