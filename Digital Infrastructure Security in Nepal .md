@@ -1,4 +1,4 @@
-# Journal: Digital Infrastructure Security in Nepal  
+# Digital Infrastructure Security in Nepal  
 
 ---
 
