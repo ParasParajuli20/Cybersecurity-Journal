@@ -1,4 +1,4 @@
-# **OWASP Top 10 Deep Dive: Exploits, Examples, and Mitigations**  
+# **OWASP Top 10 Deep Dive**  
 
 The **OWASP Top 10** is a standard awareness document for web application security risks, updated periodically to reflect the evolving threat landscape. As an **Application Security Pentester**, understanding these vulnerabilities is crucial for both offensive testing and defensive hardening.  
 
