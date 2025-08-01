@@ -2,13 +2,13 @@
 
 **Namaste and warm greetings from Nepal!**
 
-If you're a business owner, manager, or IT professional in Nepal whether you're based in Kathmandu or anywhere else in the country chances are you've asked this question at some point:
+If you're a business owner, manager, or IT professional in Nepal whether you're based in Kathmandu or anywhere else in the country, chances are you've asked this question at some point:
 
 **"What are Nepal’s cybersecurity laws, and how do they affect my business?"**
 
-In today’s digital world, protecting data isn’t just about best practices or technical upgrades,**it’s a legal responsibility.** With cyber threats on the rise and laws evolving, staying compliant is no longer optional. Failing to do so can lead to serious consequences like fines, lawsuits, or reputational damage.
+In today’s digital world, protecting data isn’t just about best practices or technical upgrades, it’s a legal responsibility. With cyber threats on the rise and laws evolving, staying compliant is no longer optional. Failing to do so can lead to serious consequences like fines, lawsuits, or reputational damage.
 
-This blog is your simple guide to understanding **Nepal’s cybersecurity legal landscape**—and what your business needs to do to stay safe and compliant.
+This blog is your simple guide to understanding Nepal’s cybersecurity legal landscape and what your business needs to do to stay safe and compliant.
 
 ---
 
@@ -36,44 +36,44 @@ The foundation of Nepal’s cyber law, the ETA criminalizes:
 - Misuse of digital signatures
 
 **Business Impact:**  
-You're legally required to secure your systems and protect sensitive information from tampering or theft. Penalties include **hefty fines and imprisonment** depending on the severity of the crime.
+You're legally required to secure your systems and protect sensitive information from tampering or theft. Penalties include hefty fines and imprisonment depending on the severity of the crime.
 
 ---
 
 ### 2. Individual Privacy Act 2075 (2018)
-This law focuses on protecting **personal data and privacy rights**. It gives individuals the right to:
+This law focuses on protecting personal data and privacy rights. It gives individuals the right to:
 - Know how their data is being collected and used
 - Access, correct, or delete their data
 - Be notified in the event of a data breach (although this is not fully codified yet)
 
 **Business Impact:**  
 If your business collects personal data (like names, phone numbers, financial info, or biometrics), you must:
-- Get **explicit consent**
-- Be transparent about **data use**
+- Get explicit consent
+- Be transparent about data use
 - Securely store that data
-- Have procedures for **data deletion** and user complaints
+- Have procedures for data deletion and user complaints
 
 ---
 
 ### 3. Nepal Rastra Bank (NRB) Directives
-If you’re in the **banking or fintech sector**, NRB mandates:
-- Implementation of **Information Security Policies**
+If you’re in the banking or fintech sector, NRB mandates:
+- Implementation of Information Security Policies
 - Secure IT infrastructure with firewalls, VPNs, audit trails, etc.
-- Regular risk assessments and **cyber incident reporting**
+- Regular risk assessments and cyber incident reporting
 
 ---
 
 ### 4. Nepal Telecommunications Authority (NTA) Guidelines
 Applies to ISPs, telecom operators, and IT service providers. Requires:
-- **Network security** and subscriber data protection
-- **Log maintenance**, lawful interception capabilities
+- Network security and subscriber data protection
+- Log maintenance, lawful interception capabilities
 - Incident reporting to authorities in case of breaches
 
 ---
 
 ### 5. Cyber Security Policy 2021 *(Strategic but not enforceable as law yet)*
 Aimed at developing:
-- A **national CERT (Computer Emergency Response Team)**
+- A national CERT (Computer Emergency Response Team)
 - Security standards across critical infrastructure
 - Cybersecurity training and public awareness
 
@@ -81,9 +81,9 @@ Aimed at developing:
 
 ### 6. Personal Data Protection Bill 2080 (Draft)
 Currently in draft form, but expected to bring major changes. Inspired by GDPR (EU law), this bill proposes:
-- Formation of a **Data Protection Authority**
-- Obligations for **data controllers and processors**
-- **Hefty penalties** for misuse of personal data
+- Formation of a Data Protection Authority
+- Obligations for data controllers and processors
+- Hefty penalties for misuse of personal data
 
 ---
 
@@ -99,12 +99,12 @@ You must implement technical and administrative measures to:
 
 ### ✅ 2. Consent and Transparency
 Be honest and open:
-- Ask for **clear consent** before collecting personal data
+- Ask for clear consent before collecting personal data
 - Tell users how, where, and why you're storing it
 
 ### ✅ 3. Data Breach Response Plan
 While Nepal doesn't yet have strict breach notification laws, it’s good practice to:
-- Have an **incident response plan**
+- Have an incident response plan
 - Notify affected users and, where applicable, authorities quickly
 
 ### ✅ 4. Employee Awareness
@@ -128,16 +128,16 @@ Here’s a checklist to get started:
 - ✅ Develop security policies and incident response plans  
 - ✅ Use firewalls, antivirus, encryption, and secure backups  
 - ✅ Provide staff training and awareness sessions  
-- ✅ Stay updated on new regulations (especially the **Data Protection Bill**)  
+- ✅ Stay updated on new regulations (especially the Data Protection Bill)  
 - ✅ Consult legal or cybersecurity professionals when needed
 
 ---
 
 ## 📌 Final Thoughts
 
-Cybersecurity is not just a tech issue—it’s a **business survival issue**. Nepal’s laws are catching up with the digital era, and it’s your responsibility as a business leader to keep pace.  
+Cybersecurity is not just a tech issue—it’s a business survival issue. Nepal’s laws are catching up with the digital era, and it’s your responsibility as a business leader to keep pace.  
 By staying informed, taking proactive steps, and building a culture of security, you’re not only complying with the law—but also gaining the trust of your customers, partners, and employees.
 
-If you need help getting started or understanding how these laws apply to your specific industry, don’t hesitate to reach out to a cybersecurity consultant or legal expert.
+If you need help getting started or understanding how these laws apply to your specific industry, don’t hesitate to reach out to a cybersecurity consultant.
 
 Let’s build a **safer digital Nepal**, together.
